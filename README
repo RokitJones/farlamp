@@ -1,1 +1,5 @@
 Arduino project files for remote touch lamps.
+
+This arduino project is intended to help connect families who are far away from
+each other by giving them insight into the other households.  It will be paired
+with a physical build that controls LED's on the other household.
